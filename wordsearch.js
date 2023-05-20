@@ -32,7 +32,7 @@ const transpose = function(matrix) {
   
   module.exports = wordSearch;
 
-
+// with @katiestruthers
 
 /* const wordSearch = (letters, word) => { 
     const horizontalJoin = letters.map(ls => ls.join(''))

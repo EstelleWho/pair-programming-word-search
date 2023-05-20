@@ -35,6 +35,7 @@ describe("#wordSearch()", function() {
   });
 });
 
+// with @katiestruthers
 
 
 
